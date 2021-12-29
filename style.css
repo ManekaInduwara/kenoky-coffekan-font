@@ -1,0 +1,39 @@
+Coffekan Font
+
+
+     @font-face {
+          font-family: "coffekan";
+          src: url("https://cdn.jsdelivr.net/gh/ManekaInduwara/kenoky-coffekan-font@main/coffekan-Regular.ttf")
+            format("truetype");
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
+        }
+
+          html,
+        body {
+          font-family: "coffekan";
+        }
+
+   
+
+Kenoky Font
+
+       @font-face {
+          font-family: "Kenoky Light";
+          src: url("https://cdn.jsdelivr.net/gh/ManekaInduwara/kenoky-coffekan-font@main/KenokyLight.ttf")
+            format("truetype");
+          font-weight: normal;
+          font-style: normal;
+          font-display: swap;
+        }
+
+
+     html,
+        body {
+          font-family: "Kenoky Light";
+        }
+
+
+
+Owner Maneka Induwara
