@@ -5,9 +5,6 @@ Coffekan Font
           font-family: "coffekan";
           src: url("https://cdn.jsdelivr.net/gh/ManekaInduwara/kenoky-coffekan-font@main/coffekan-Regular.ttf")
             format("truetype");
-          font-weight: normal;
-          font-style: normal;
-          font-display: swap;
         }
 
           html,
@@ -23,9 +20,6 @@ Kenoky Font
           font-family: "Kenoky Light";
           src: url("https://cdn.jsdelivr.net/gh/ManekaInduwara/kenoky-coffekan-font@main/KenokyLight.ttf")
             format("truetype");
-          font-weight: normal;
-          font-style: normal;
-          font-display: swap;
         }
 
 
@@ -34,5 +28,16 @@ Kenoky Font
           font-family: "Kenoky Light";
         }
 
+Neue Metana
+
+      @font-face {
+          font-family: "Neue Metana";
+          src: url("https://cdn.jsdelivr.net/gh/ManekaInduwara/kenoky-coffekan-font@main/NeueMetana-Regular.otf")
+            format("truetype");
+        }
+
+
+
+ font-family: 'Neue Metana';
 
 Owner Maneka Induwara
